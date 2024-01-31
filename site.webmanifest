@@ -1,0 +1,23 @@
+{
+    "name": "alquranhadis.biz.id",
+    "short_name": "alquranhadis",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL71HgbcnYo-p_nFrnlBx2r88LpB39aXEmMhYJyhOG8hp1SkgfyERGw0ac8EU2CaleaCG36cEmu5xhOMXkzq1uVqI-uaodwEndRk0KS_W76S0HyboNfiJ5UI90owM_ugIQcthsW7jeSTFOKGCjq0kOJbfNu5-mmsdo4c8QXHCS3xf5elNLkHheqvGmmvg/s192/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUTNfe9D_1nVldITHCibaWUCeaJVIx30rVc1bSj9pSUjUcOrcLQwNHRM3fIzePZgeFvX6_rQvWTqnD1c18HYsIbNcJl1eCl4HYoDWPtpooJfoMqjUp4wD0ckQKXc7Q3oxPt7_ZaEQzHMXgR_5E4BlEHbqHfnObxnyIFnmp7wrUHscCIZhadkCrvQCjJk8/s320/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3291d1",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.alquranhadis.biz.id"
+}
